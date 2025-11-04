@@ -25,6 +25,6 @@ This repository provides **Chinese-language versions** of these tasks, adapted f
 
 ## Acknowledgment
 - Original task design and theoretical framework by **Norbury et al., 2024**.  
-- Code and demo links available at [https://github.com/agnesnorbury/cognitive-mechanisms-psychotherapy](https://github.com/agnesnorbury/cognitive-mechanisms-psychotherapy).
+- Original code and demo links available at [https://github.com/agnesnorbury/cognitive-mechanisms-psychotherapy](https://github.com/agnesnorbury/cognitive-mechanisms-psychotherapy).
 
 Please cite the original paper if using the task for research or educational purposes.
